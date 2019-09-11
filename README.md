@@ -12,3 +12,4 @@ current directory
 
 ### Basic Branching
 * `git branch branchName` - Create a new branch `branchName`
+* `git checkout -b branchName` -Create and swhitch 'branchName'
